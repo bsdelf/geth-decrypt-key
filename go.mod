@@ -1,4 +1,4 @@
-module go-ethereum-decrypt-key
+module geth-decrypt-key
 
 go 1.14
 
